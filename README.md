@@ -1,6 +1,8 @@
 # Interpretability-Hackathon2
 
-This repo contains the report and code that Guillaume Corlouer and I created during Apart Research's Mechanistic Interpretability Hackathon (20/01/2023 - 22/01/2023). It incorporates significant threads of work conducted by Arthur Conmy, Neel Nanda and Redwood Research. I would like to sincerely thank them for the wealth of resources they’ve provided in support of mechanistic interpretability research. Additionally, I would like to sincerely thank Apart Research for hosting such an enjoyable hackathon.
+This repo contains the report and code that Guillaume Corlouer and I created during Apart Research's Mechanistic Interpretability Hackathon (20/01/2023 - 22/01/2023). 
+
+It incorporates significant threads of work conducted by Arthur Conmy, Neel Nanda and Redwood Research. I would like to sincerely thank them for the wealth of resources they’ve provided in support of mechanistic interpretability research. Additionally, I would like to sincerely thank Apart Research for hosting such an enjoyable hackathon.
 
 Resources used:
 
